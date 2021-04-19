@@ -1,7 +1,7 @@
 
 #PROJDIR=
 
-#mkdir $PROJDIR/data/sra
+#mkdir -p $PROJDIR/data/sra
 #cd $PROJDIR/data/sra
 
 version=2.11.0
