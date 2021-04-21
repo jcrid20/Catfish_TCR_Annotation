@@ -18,7 +18,7 @@ STEP=step_001_fastq-dump
 
 #running the script
 mkdir -p ${PRODIR}/analysis/${STEP}
-cd ${PROJDIR}/analysis/${STEP}
+cd ${PRODIR}/analysis/${STEP}
 
 #fastq-dump.${version-2.10.8} ${PRODIR}/data/srr/SRR392744 --split-files --gzip
 fastq-dump ${PRODIR}/data/srr/SRR392744 --split-files --gzip
