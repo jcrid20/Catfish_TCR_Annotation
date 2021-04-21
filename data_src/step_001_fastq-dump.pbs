@@ -17,7 +17,7 @@ PRODIR=/ddn/home2/r2884/VDJ_TCR
 STEP=step_001_fastq-dump
 
 #running the script
-mkdir -p ${PROJDIR}/analysis/${STEP}
+mkdir -p ${PRODIR}/analysis/${STEP}
 cd ${PROJDIR}/analysis/${STEP}
 
 #fastq-dump.${version-2.10.8} ${PRODIR}/data/srr/SRR392744 --split-files --gzip
