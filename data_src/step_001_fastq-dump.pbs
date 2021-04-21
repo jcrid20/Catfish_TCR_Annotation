@@ -4,16 +4,16 @@
 #PBS -l nodes=1:ppn=6
 #PBS -l mem=24G
 #PBS -N step_001_fast-dump_SRR
-#PBS -e /ddn/home2/r2884/VDJ_project/xpbsout/step_001_fastq-dump/step_001_fastq-dump_error.txt
-#PBS -o /ddn/home2/r2884/VDJ_project/xpbsout/step_001_fasq-dump/step_001_fastq-dump_output.txt
+#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_001_fastq-dump/step_001_fastq-dump_error.txt
+#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_001_fasq-dump/step_001_fastq-dump_output.txt
 
 #submitted job like this
-#mkdir -p /ddn/home2/r2884/VDJ_project/xpbsout/step_001_fastq-dump
+#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_001_fastq-dump
 #cd <project_dir>/<gitrepo>
 #qsub step_001_fastq-dump.pbs
 
 #Variables to set:
-PRODIR=/ddn/home2/r2884/VDJ-project
+PRODIR=/ddn/home2/r2884/VDJ_TCR
 STEP=step_001_fastq-dump
 
 #running the script
