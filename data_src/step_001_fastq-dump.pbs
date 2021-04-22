@@ -22,3 +22,5 @@ cd ${PRODIR}/analysis/${STEP}
 
 #fastq-dump.${version-2.10.8} ${PRODIR}/data/srr/SRR392744 --split-files --gzip
 fastq-dump ${PRODIR}/data/srr/SRR392744 --split-files --gzip
+
+#Edit: Removed a typo.
