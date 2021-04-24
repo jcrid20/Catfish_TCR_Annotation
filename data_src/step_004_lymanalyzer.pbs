@@ -1,0 +1,23 @@
+#!/bin/bash
+#PBS -q workq
+#PBS -l walltime=24:00:00
+#PBS -l nodes=1:ppn=6
+#PBS -l mem=24G
+#PBS -N step_004_lymanalyzer
+#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_004_lymanalyzer/step_004_lymanalyzer_error.txt
+#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_004_lymanalyzer/step_004_lymanalyzer_output.txt
+
+#submitted job like this
+#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_004_lymanalyzer
+#cd <project_dir>/<gitrepo>
+#qsub step_004_lymanalyzer.pbs
+
+#Variables to set:
+PRODIR=/ddn/home2/r2884/VDJ_TCR
+STEP=step_004_lymanalyzer
+
+#running the script
+mkdir -p ${PRODIR}/analysis/${STEP}
+cd ${PRODIR}/apps/lym_analyzer_v1.2.2
+module load java/1.8.0
+java -jar -Xmx16g LymAnalyzer_cmd_1.2.2.jar ${PRODIR}/analysis/step_003_flash/out.extendedFrags.fastq ${PRODIR}/analysis/step_004_lymanalyzer TCRB catfish TCRBV_ID Yes No ${PRODIR}/data/tcr_database/lym_database_catfish_fastq/TCRGeneLibrary.fastq
