@@ -18,5 +18,5 @@ STEP=step_003_flash_assemble
 
 #running the script
 mkdir -p ${PRODIR}/analysis/${STEP}
-cd ${PRODIR}/apps/flash_v1.2.11/FLASH-1.2.11/flash
+cd ${PRODIR}/apps/flash_v1.2.11/FLASH-1.2.11
 ./flash ${PRODIR}/analysis/step_001_fastq-dump/SRR392744_1.fastq.gz ${PRODIR}/analysis/step_001_fastq-dump/SRR392744_2.fastq.gz -r 100 -d ${PRODIR}/analysis/step_003_flash/ 2>&1 | tee flash.log
