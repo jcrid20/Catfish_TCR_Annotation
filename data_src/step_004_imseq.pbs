@@ -1,0 +1,22 @@
+#!/bin/bash
+#PBS -q MCSR
+#PBS -l walltime=72:00:00
+#PBS -l nodes=1:ppn=26
+#PBS -l mem=256G
+#PBS -N step_004_imseq
+#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_004_imseq/step_004_imseq_error_TRA.txt
+#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_004_imseq/step_004_imseq_output_TRA.txt
+
+#submitted job like this
+#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_004_imseq
+#cd <project_dir>/<gitrepo>
+#qsub step_004_imseq.pbs
+
+#Variables to set:
+PRODIR=/ddn/home2/r2884/VDJ_TCR
+STEP=step_004_imseq
+
+#running the script
+mkdir -p ${PRODIR}/analysis/${STEP}
+cd /ddn/home2/r2884/VDJ_TCR/apps/imseq_v1.1.0/imseq_1.1.0-linux64/
+./imseq -ref TRAdatabase.fasta -j 25 -o /ddn/home2/r2884/VDJ_TCR/analysis/step_004_imseq/TRAassembled-o.txt -oa /ddn/home2/r2884/VDJ_TCR/analysis/step_004_imseq/TRAassembled-oa.txt -on /ddn/home2/r2884/VDJ_TCR/analysis/step_004_imseq/TRAassembled-on.txt /ddn/home2/r2884/VDJ_TCR/analysis/step_003_flash/out.extendedFrags.fastq

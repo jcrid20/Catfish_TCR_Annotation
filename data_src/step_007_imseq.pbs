@@ -1,0 +1,22 @@
+#!/bin/bash
+#PBS -q MCSR
+#PBS -l walltime=72:00:00
+#PBS -l nodes=1:ppn=26
+#PBS -l mem=256G
+#PBS -N step_007_imseq
+#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_007_imseq/step_007_imseq_error_TRD.txt
+#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_007_imseq/step_007_imseq_output_TRD.txt
+
+#submitted job like this
+#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_007_imseq
+#cd <project_dir>/<gitrepo>
+#qsub step_007_imseq.pbs
+
+#Variables to set:
+PRODIR=/ddn/home2/r2884/VDJ_TCR
+STEP=step_007_imseq
+
+#running the script
+mkdir -p ${PRODIR}/analysis/${STEP}
+cd /ddn/home2/r2884/VDJ_TCR/apps/imseq_v1.1.0/imseq_1.1.0-linux64/
+./imseq -ref TRDdatabase.fasta -j 25 -o /ddn/home2/r2884/VDJ_TCR/analysis/step_007_imseq/TRDassembled-o.txt -oa /ddn/home2/r2884/VDJ_TCR/analysis/step_007_imseq/TRDassembled-oa.txt -on /ddn/home2/r2884/VDJ_TCR/analysis/step_007_imseq/TRDassembled-on.txt /ddn/home2/r2884/VDJ_TCR/analysis/step_003_flash/out.extendedFrags.fastq
