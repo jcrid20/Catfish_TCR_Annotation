@@ -1,0 +1,6 @@
+
+#downloaded manually from link below:
+http://www.imtools.org/
+
+#manually installed on system in $PROJDIR/apps/imseq directory
+
