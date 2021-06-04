@@ -1,0 +1,26 @@
+#!/bin/bash
+#PBS -q MCSR
+#PBS -l walltime=24:00:00
+#PBS -l nodes=1:ppn=26
+#PBS -l mem=100G
+#PBS -N step_2_trim
+#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_002_trimmomatic/step_002_trimmomatic_error.txt
+#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_002_trimmomatic/step_002_trimmomatic_output.txt
+
+#submitted job like this
+#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_002_trimmomatic
+#cd <project_dir>/<gitrepo>
+#qsub step_002_trimmomatic.pbs
+
+#Variables to set
+READ=/ddn/home2/r2884/VDJ_TCR/analysis/step_001_fastq-dump
+OUTPUT=/ddn/home2/r2884/VDJ_TCR/analysis/step_002_trimmomatic
+TRIM=/usr/local/apps/Trimmomatic-0.39
+ADAPTER=/usr/local/apps/Trimmomatic-0.39/adapters
+
+mkdir -p /ddn/home2/r2884/VDJ_TCR/analysis/step_002_trimmomatic
+cd /ddn/home2/r2884/VDJ_TCR/analysis/step_002_trimmomatic
+module load java
+java -jar ${TRIM}/trimmomatic-0.39.jar PE -threads 25 -phred33 -summary ${OUTPUT}/summary.txt ${READ}/SRR392744_1.fastq.gz ${READ}/SRR392744_2.fastq.gz ${OUTPUT}/SRR392744Fp.fastq.gz ${OUTPUT}/SRR392744Fup.fastq.gz ${OUTPUT}/SRR392744Rp.fastq.gz ${OUTPUT}/SRR392744Rup.fastq.gz ILLUMINACLIP:${ADAPTER}/TruSeq3-PE.fa:2:30:10:2:keepBothReads LEADING:12 TRAILING:12 SLIDINGWINDOW:4:15 MINLEN:36
+module load fastqc/0.11.5
+fastqc ${OUTPUT}/SRR392744Fp.fastq.gz ${OUTPUT}/SRR392744Rp.fastq.gz -t 25 -o ${OUTPUT}

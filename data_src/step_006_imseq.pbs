@@ -19,4 +19,4 @@ STEP=step_006_imseq
 #running the script
 mkdir -p ${PRODIR}/analysis/${STEP}
 cd /ddn/home2/r2884/VDJ_TCR/apps/imseq_v1.1.0/imseq_1.1.0-linux64/
-./imseq -ref TRGdatabase.fasta -j 25 -o /ddn/home2/r2884/VDJ_TCR/analysis/step_006_imseq/TRGassembled-o.txt -oa /ddn/home2/r2884/VDJ_TCR/analysis/step_006_imseq/TRGassembled-oa.txt -on /ddn/home2/r2884/VDJ_TCR/analysis/step_006_imseq/TRGassembled-on.txt /ddn/home2/r2884/VDJ_TCR/analysis/step_003_flash/out.extendedFrags.fastq
+./imseq -ref TRGdatabase.fasta -j 25 -ma -mrl 100 -o /ddn/home2/r2884/VDJ_TCR/analysis/step_006_imseq/TRGassembled-o.txt /ddn/home2/r2884/VDJ_TCR/analysis/step_003_flash/out.extendedFrags.fastq

@@ -1,0 +1,18 @@
+#!/bin/bash
+#PBS -q MCSR
+#PBS -l walltime=24:00:00
+#PBS -l nodes=1:ppn=20
+#PBS -l mem=100G
+#PBS -N step_009_blast
+#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_009_blast_test/step_009_blast_test_error.txt
+#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_009_blast_test/step_009_blast_test_output.txt
+
+#submitted job like this
+#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_009_blast_test
+#cd <project_dir>/<gitrepo>
+#qsub step_009_blast_test.pbs
+
+mkdir -p /ddn/home2/r2884/VDJ_TCR/analysis/step_009_blast_test
+module load blast/2.7.1
+cd /ddn/home2/r2884/VDJ_TCR/analysis/step_008_makeblastdb
+blastn  -db out.extendedFrags.fasta -query /ddn/home2/r2884/VDJ_TCR/apps/imseq_v1.1.0/imseq_1.1.0-linux64/TRBdatabase.fasta -evalue 1e-10 -out /ddn/home2/r2884/VDJ_TCR/analysis/step_009_blast_test/testresults.txt -num_threads 18 -outfmt 7
