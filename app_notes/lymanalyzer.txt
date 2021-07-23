@@ -1,6 +1,0 @@
-
-#downloaded manually from link below:
-https://sourceforge.net/projects/lymanalyzer/
-
-#manually installed on system in $PROJDIR/apps/lymanalyzer directory
-
