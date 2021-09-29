@@ -1,4 +1,4 @@
-labels	TRG1	TRG2	TRG3
+labels	TRG2	TRG3	TRG1
 J3-1	4	-	-
 J3-2	-	-	2
 J3-3	-	-	-
