@@ -4,19 +4,19 @@
 #PBS -l nodes=1:ppn=26
 #PBS -l mem=256G
 #PBS -N step_005_imseq
-#PBS -e /ddn/home2/r2884/VDJ_TCR/xpbsout/step_005_imseq/step_005_imseq_error_TRB.txt
-#PBS -o /ddn/home2/r2884/VDJ_TCR/xpbsout/step_005_imseq/step_005_imseq_output_TRB.txt
+#PBS -e /ddn/home2/r2884/Catfish_TCR_Annotation/xpbsout/step_005_imseq/step_005_imseq_error_TRB.txt
+#PBS -o /ddn/home2/r2884/Catfish_TCR_Annotation/xpbsout/step_005_imseq/step_005_imseq_output_TRB.txt
 
 #submitted job like this
-#mkdir -p /ddn/home2/r2884/VDJ_TCR/xpbsout/step_005_imseq
+#mkdir -p /ddn/home2/r2884/Catfish_TCR_Annotation/xpbsout/step_005_imseq
 #cd <project_dir>/<gitrepo>
 #qsub step_005_imseq.pbs
 
 #Variables to set:
-PRODIR=/ddn/home2/r2884/VDJ_TCR
+PRODIR=/ddn/home2/r2884/Catfish_TCR_Annotation
 STEP=step_005_imseq
 
 #running the script
 mkdir -p ${PRODIR}/analysis/${STEP}
-cd /ddn/home2/r2884/VDJ_TCR/apps/imseq_v1.1.0/imseq_1.1.0-linux64/
-./imseq -ref TRBdatabase.fasta -j 25 -ma -mrl 100 -o /ddn/home2/r2884/VDJ_TCR/analysis/step_005_imseq/TRBassembled-o.txt /ddn/home2/r2884/VDJ_TCR/analysis/step_003_flash/out.extendedFrags.fastq
+cd /ddn/home2/r2884/Catfish_TCR_Annotation/apps/imseq_v1.1.0/imseq_1.1.0-linux64/
+./imseq -ref TRBdatabase.fasta -j 25 -ma -mrl 100 -o /ddn/home2/r2884/Catfish_TCR_Annotation/analysis/step_005_imseq/TRBassembled-o.txt /ddn/home2/r2884/Catfish_TCR_Annotation/analysis/step_003_flash/out.extendedFrags.fastq
