@@ -1,0 +1,598 @@
+>Feature TRB contig
+1    1887825    REFERENCE
+610846    610903    CDS
+610980    611272
+                        product           TRBV30-1
+						codon_start       1
+612182    612233    CDS
+612317    612609
+                        product           TRBV30-2
+						codon_start       1
+613910    613967    CDS
+614051    614343
+                        product           TRBV30-3
+						codon_start       1
+615344    615401    CDS
+615485    615777
+                        product           TRBV30-4
+						codon_start       1
+617082    617139    CDS
+617236    617528
+                        product           TRBV30-5
+						codon_start       1
+619061    619118    CDS
+619210    619502
+                        product           TRBV30-6
+						codon_start       1
+621051    621108    CDS
+621194    621486
+                        product           TRBV30-7
+						codon_start       1
+622275    622332    CDS
+622415    622707
+                        product           TRBV30-8
+						codon_start       1
+623591    623761    misc_feature
+                        product           Remnant I
+624747    624804    CDS
+624886    625178
+                        product           TRBV30-9
+						codon_start       1
+627382    627329    exon
+				        number            1
+						product           TRBC2 CYT
+627797    627700    exon
+                        number            2
+						product           TRBC2 TM
+629066    628713    exon
+                        number            3
+						product           TRBC2 Ig Domain
+629066    628713    gene  
+627797    627700 
+627382    627329
+						gene           TRBC2
+631138    631086    CDS
+                        product           TRBJ2-2P	
+						codon_start       2
+631738    631688    CDS
+                        product           TRBJ2-1	
+						codon_start       3
+633124    633107    exon
+				        number            1
+						product           TRBC1 CYT
+633383    633280    exon
+                        number            2
+						product           TRBC1 TM
+633559    633536    exon
+                        number            3
+						product           TRBC1 CP
+634041    633706    exon
+                        number            4
+						product           TRBC1 Ig Domain
+634041    633706    gene  
+633559    633536 
+633383    633280
+633124    633107
+						gene           TRBC1
+634041    633706    CDS  
+633559    633536 
+633383    633280
+633124    633107
+						product           TRBC1
+						codon_start       3
+636278    636230    CDS
+                        product           TRBJ1-29	
+						codon_start       1
+636835    636784    CDS
+                        product           TRBJ1-28	
+						codon_start       1
+637215    637162    CDS
+                        product           TRBJ1-27	
+						codon_start       3
+637573    637522    CDS
+                        product           TRBJ1-26	
+						codon_start       1
+637755    637706    CDS
+                        product           TRBJ1-25	
+						codon_start       2
+638067    638019    CDS
+                        product           TRBJ1-24	
+						codon_start       1
+638405    638354    CDS
+                        product           TRBJ1-23	
+						codon_start       1
+638594    638545    CDS
+                        product           TRBJ1-22	
+						codon_start       2
+638814    638761    CDS
+                        product           TRBJ1-21	
+						codon_start       3
+639094    639041    CDS
+                        product           TRBJ1-20	
+						codon_start       3
+639467    639416    CDS
+                        product           TRBJ1-19	
+						codon_start       1
+639673    639620    CDS
+                        product           TRBJ1-18	
+						codon_start       3
+640035    639979    CDS
+                        product           TRBJ1-17.2	
+						codon_start       3
+640365    640314    CDS
+                        product           TRBJ1-16.2
+						codon_start       1
+640588    640535    CDS
+                        product           TRBJ1-15	
+						codon_start       3
+640944    640893    CDS
+                        product           TRBJ1-12	
+						codon_start       1
+641154    641101    CDS
+                        product           TRBJ1-11	
+						codon_start       3
+641485    641435    CDS
+                        product           TRBJ1-10	
+						codon_start       3
+641821    641770    CDS
+                        product           TRBJ1-9	
+						codon_start       1
+641993    641944    CDS
+                        product           TRBJ1-8	
+						codon_start       2
+642360    642313    CDS
+                        product           TRBJ1-7	
+						codon_start       3
+642582    642531    CDS
+                        product           TRBJ1-6	
+						codon_start       1
+642791    642741    CDS
+                        product           TRBJ1-5	
+						codon_start       3
+643132    643082    CDS
+                        product           TRBJ1-4	
+						codon_start       3
+643439    643389    CDS
+                        product           TRBJ1-3	
+						codon_start       3
+643783    643733    CDS
+                        product           TRBJ1-2	
+						codon_start       3
+644031    643981    CDS
+                        product           TRBJ1-1	
+						codon_start       3
+644664    644675    D_segment
+                        product           TRBD1	
+647742    647700    CDS
+647584    647281
+                        product           TRBV29-1
+						codon_start       1
+649222    649174    CDS
+648982    648699
+                        product           TRBV28-1
+						codon_start       1
+652729    652684    CDS
+652585    652284
+                        product           TRBV27-16
+						codon_start       1
+654374    654329    CDS
+654127    653823
+                        product           TRBV27-15
+						codon_start       1
+656911    656875    CDS
+656438    656137
+                        product           TRBV27-14
+						codon_start       1
+658856    658811    CDS
+658585    658287
+                        product           TRBV27-13
+						codon_start       1
+659733    659688    CDS
+659594    659293
+                        product           TRBV27-12
+						codon_start       1
+660932    660887    CDS
+660696    660395
+                        product           TRBV27-11
+						codon_start       1
+664428    664383    CDS
+664140    663839
+                        product           TRBV27-10
+						codon_start       1
+665508    665463    CDS
+665307    665006
+                        product           TRBV27-9
+						codon_start       1
+667070    667025    CDS
+666917    666616
+                        product           TRBV27-8
+						codon_start       1
+668169    668124    CDS
+668005    667704
+                        product           TRBV27-7
+						codon_start       1
+669867    669822    CDS
+669660    669359
+                        product           TRBV27-6
+						codon_start       1
+671983    671938    CDS
+671726    671425
+                        product           TRBV27-5
+						codon_start       1
+673520    673475    CDS
+673315    673014
+                        product           TRBV27-4
+						codon_start       1
+679800    679755    CDS
+679571    679270
+                        product           TRBV27-3
+						codon_start       1
+681808    681763    CDS
+681560    681259
+                        product           TRBV27-2
+						codon_start       1
+683351    683306    CDS
+683147    682846
+                        product           TRBV27-1
+						codon_start       1
+685813    685768    CDS
+685646    685342
+                        product           TRBV26
+						codon_start       1
+686948    686900    CDS
+686793    686492
+                        product           TRBV25
+						codon_start       1
+687821    687773    CDS
+687669    687371
+                        product           TRBV24-2
+						codon_start       1
+689604    689559    CDS
+689464    689172
+                        product           TRBV23-2
+						codon_start       1
+690484    690436    CDS
+690070    689766
+                        product           TRBV22-2
+						codon_start       1
+690966    690664    misc_feature
+                        product           Remnant H
+691521    691473    CDS
+691356    691058
+                        product           TRBV24-1
+						codon_start       1
+693019    692974    CDS
+692888    692593
+                        product           TRBV23-1
+						codon_start       1
+693620    693572    CDS
+693478    693177
+                        product           TRBV22-1
+						codon_start       1
+696713    696665    CDS
+696516    696216
+                        product           TRBV21
+						codon_start       1
+697443    697389    CDS
+697273    696981
+                        product           TRBV20
+						codon_start       1
+698589    698544    CDS
+698459    698152
+                        product           TRBV19-9
+						codon_start       1
+699234    699186    CDS
+699091    698803
+                        product           TRBV18-2
+						codon_start       1
+700507    700442    misc_feature
+                        product           Leader Remnant G
+701655    701610    CDS
+701523    701216
+                        product           TRBV19-8
+						codon_start       1
+703835    703790    CDS
+703704    703397
+                        product           TRBV19-7
+						codon_start       1
+705896    705620    misc_feature
+                        product           Remnant F
+706083    706014    misc_feature
+                        product           Remnant F Leader
+707087    707042    CDS
+706955    706648
+                        product           TRBV19-6
+						codon_start       1
+709611    709566    CDS
+709479    709172
+                        product           TRBV19-5
+						codon_start       1
+710931    710886    CDS
+710794    710493
+                        product           TRBV19-4
+						codon_start       1
+712720    712675    CDS
+712588    712281
+                        product           TRBV19-3
+						codon_start       1
+713896    713579    misc_feature
+                        product           Remnant E
+713995    713937    misc_feature
+                        product           Remnant E Leader
+714991    714946    CDS
+714859    714552
+                        product           TRBV19-2
+						codon_start       1
+716039    715994    CDS
+715906    715599
+                        product           TRBV19-1
+						codon_start       1
+716698    716650    CDS
+716548    716257
+                        product           TRBV18-1
+						codon_start       1
+717771    717720    misc_feature
+717499    717211
+                        product           TRBV17-1P
+						pseudo
+718376    718334    CDS
+718234    717937
+                        product           TRBV16-ORF
+						codon_start       1
+720049    720001    CDS
+719872    719567
+                        product           TRBV7-15
+						codon_start       1
+720494    720281    misc_feature
+                        product           Remnant D
+720758    720716    misc_feature
+                        product           Remnant D Leader
+721439    721391    CDS
+721261    720956
+                        product           TRBV7-14
+						codon_start       1
+723029    722987    CDS
+722902    722598
+                        product           TRBV15-3
+						codon_start       1
+723741    723693    CDS
+723587    723282
+                        product           TRBV7-13
+						codon_start       1
+725392    725344    CDS
+725179    724876
+                        product           TRBV7-12
+						codon_start       1
+727155    727107    CDS
+726991    726686
+                        product           TRBV7-11
+						codon_start       1
+728798    728750    CDS
+728575    728270
+                        product           TRBV7-10
+						codon_start       1
+730407    730365    CDS
+730284    729980
+                        product           TRBV15-2
+						codon_start       1
+731214    731166    CDS
+730989    730684
+                        product           TRBV7-9
+						codon_start       1
+734215    734173    CDS
+734088    733784
+                        product           TRBV15-1
+						codon_start       1
+735114    735066    CDS
+734946    734643
+                        product           TRBV7-8
+						codon_start       1
+735755    735675    misc_feature
+                        product           Remnant C
+737062    737014    CDS
+736893    736588
+                        product           TRBV7-7
+						codon_start       1
+739640    739592    CDS
+739402    739097
+                        product           TRBV7-6
+						codon_start       1
+742553    742505    CDS
+742342    742034
+                        product           TRBV7-5
+						codon_start       1
+745422    745374    CDS
+745279    744979
+                        product           TRBV14-6
+						codon_start       1
+746876    746828    CDS
+746742    746438
+                        product           TRBV11-8
+						codon_start       1
+748311    748263    CDS
+748117    747814
+                        product           TRBV12-4
+						codon_start       1
+749861    749813    CDS
+749730    749430
+                        product           TRBV14-5
+						codon_start       1
+751319    751013    misc_feature
+                        product           TRBV11-7P
+						pseudo
+753217    753169    CDS
+753053    752750
+                        product           TRBV12-3
+						codon_start       1
+754935    754887    CDS
+754773    754470
+                        product           TRBV7-4
+						codon_start       1
+756442    756394    CDS
+756264    755962
+                        product           TRBV12-2
+						codon_start       1
+757400    757352    CDS
+757231    756926
+                        product           TRBV7-3
+						codon_start       1
+759508    759460    CDS
+759365    759065
+                        product           TRBV14-4
+						codon_start       1
+760225    760177    CDS
+760097    759796
+                        product           TRBV11-6
+						codon_start       1
+762333    762285    CDS
+762189    761889
+                        product           TRBV14-3
+						codon_start       1
+763052    763004    CDS
+762924    762623
+                        product           TRBV11-5
+						codon_start       1
+765155    765107    CDS
+765011    764711
+                        product           TRBV14-2
+						codon_start       1
+765874    765826    CDS
+765746    765445
+                        product           TRBV11-4
+						codon_start       1
+767099    767051    CDS
+766930    766627
+                        product           TRBV7-2
+						codon_start       1
+768568    768520    CDS
+768424    768124
+                        product           TRBV14-1
+						codon_start       1
+772387    772339    CDS
+772209    771908
+                        product           TRBV13
+						codon_start       1
+773153    773105    CDS
+772966    772662
+                        product           TRBV11-3
+						codon_start       1
+774136    774088    CDS
+773979    773675
+                        product           TRBV11-2
+						codon_start       1
+775037    774989    misc_feature
+774878    774575
+                        product           TRBV12-1P
+						pseudo
+776615    776567    misc_feature
+776455    776156
+                        product           TRBV11-1P
+						pseudo
+779169    779130    CDS
+778272    777980
+                        product           TRBV10
+						codon_start       1
+779955    779916    CDS
+779673    779392
+                        product           TRBV9
+						codon_start       1
+781251    781203    misc_feature
+781134    780848
+                        product           TRBV8P
+						pseudo
+783841    783793    CDS
+783708    783403
+                        product           TRBV6-5
+						codon_start       1
+786351    786303    CDS
+786217    785911
+                        product           TRBV7-1
+						codon_start       1
+788791    788743    CDS
+788659    788354
+                        product           TRBV6-4
+						codon_start       1
+790842    790794    CDS
+790710    790405
+                        product           TRBV6-3
+						codon_start       1
+792447    792399    CDS
+792315    792010
+                        product           TRBV6-2
+						codon_start       1
+794259    794211    CDS
+794125    793820
+                        product           TRBV6-1
+						codon_start       1
+796952    796907    CDS
+796743    796442
+                        product           TRBV2-7
+						codon_start       1
+798570    798522    CDS
+798421    798123
+                        product           TRBV5-1
+						codon_start       1
+800886    800838    CDS
+800437    800137
+                        product           TRBV4
+						codon_start       1
+802054    802012    CDS
+801914    801619
+                        product           TRBV3-6
+						codon_start       1
+803211    803166    CDS
+803007    802706
+                        product           TRBV2-6
+						codon_start       1
+806858    806813    CDS
+806673    806372
+                        product           TRBV2-5
+						codon_start       1
+807809    807761    misc_feature
+807597    807305
+                        product           TRBV3-5P
+						pseudo
+810221    810049    misc_feature
+                        product           Remnant B
+810759    810711    CDS
+810606    810312
+                        product           TRBV3-4
+						codon_start       1
+812001    811956    CDS
+811824    811523
+                        product           TRBV2-4
+						codon_start       1
+812960    812912    CDS
+812808    812514
+                        product           TRBV3-3
+						codon_start       1
+814776    814731    CDS
+814602    814301
+                        product           TRBV2-3
+						codon_start       1
+815962    815914    CDS
+815810    815516
+                        product           TRBV3-2
+						codon_start       1
+817918    817855    CDS
+817709    817413
+                        product           TRBV1-2
+						codon_start       1
+818483    818311    misc_feature
+                        product           Remnant A
+819190    819145    CDS
+819031    818730
+                        product           TRBV2-2
+						codon_start       1
+820057    820006    CDS
+819925    819631
+                        product           TRBV3-1
+						codon_start       1
+821220    821175    CDS
+821041    820740
+                        product           TRBV2-1
+						codon_start       1
+824199    824136    CDS
+824006    823710
+                        product           TRBV1-1
+						codon_start       1

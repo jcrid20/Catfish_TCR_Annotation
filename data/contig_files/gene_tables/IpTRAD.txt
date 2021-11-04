@@ -1,0 +1,1057 @@
+>Feature TRAD contig
+1    1631080    REFERENCE
+342533    342544    D_segment
+                        product           TRDD1	
+343752    343762    D_segment
+                        product           TRDD2
+346892    346902    D_segment
+                        product           TRDD3
+349711    349723    D_segment
+                        product           TRDD4
+352535    352585    CDS
+                        product           TRDJ1	
+						codon_start       3
+356641    356907    exon
+                        number            1
+						product           TRDC Ig Domain
+357024    357116    exon
+                        number            2
+						product           TRDC CP
+357201    357310    exon
+                        number            3
+						product           TRDC TM
+356641    356907    gene  
+357024    357116 
+357201    357310
+						gene           TRDC
+356641    356907    CDS  
+357024    357116 
+357201    357310
+						product           TRDC
+						codon_start       3
+361259    361320    CDS
+                        product           TRAJ1	
+						codon_start       2
+361920    361982    CDS
+                        product           TRAJ2
+						codon_start       3
+362304    362363    CDS
+                        product           TRAJ3
+						codon_start       3
+362753    362815    CDS
+                        product           TRAJ4
+						codon_start       3
+363250    363309    CDS
+                        product           TRAJ5
+						codon_start       3
+363597    363656    CDS
+                        product           TRAJ6	
+						codon_start       3
+363919    363978    CDS
+                        product           TRAJ7
+						codon_start       3
+364248    364313    misc_feature
+                        product           TRAJ8P
+						pseudo
+364688    364747    CDS
+                        product           TRAJ9
+						codon_start       3
+364866    364925    CDS
+                        product           TRAJ10	
+						codon_start       3
+365293    365355    CDS
+                        product           TRAJ11	
+						codon_start       3
+365962    366024    CDS
+                        product           TRAJ12
+						codon_start       3
+366310    366369    CDS
+                        product           TRAJ13
+						codon_start       3
+367067    367126    CDS
+                        product           TRAJ14
+						codon_start       3
+367629    367688    CDS
+                        product           TRAJ15
+						codon_start       3
+368070    368129    CDS
+                        product           TRAJ16
+						codon_start       3
+368549    368608    CDS
+                        product           TRAJ17	
+						codon_start       3
+369057    369119    CDS
+                        product           TRAJ18
+						codon_start       3
+369309    369368    CDS
+                        product           TRAJ19
+						codon_start       3
+369728    369790    CDS
+                        product           TRAJ20
+						codon_start       3
+370333    370392    CDS
+                        product           TRAJ21
+						codon_start       3
+370854    370910    CDS
+                        product           TRAJ22	
+						codon_start       3
+371234    371290    CDS
+                        product           TRAJ23	
+						codon_start       3
+371481    371546    CDS
+                        product           TRAJ24	
+						codon_start       3
+371965    372030    CDS
+                        product           TRAJ25	
+						codon_start       3
+372299    372361    CDS
+                        product           TRAJ26
+						codon_start       3
+372756    372815    CDS
+                        product           TRAJ27
+						codon_start       3
+373037    373096    CDS
+                        product           TRAJ28
+						codon_start       3
+373311    373367    CDS
+                        product           TRAJ29
+						codon_start       3
+373811    373873    CDS
+                        product           TRAJ30
+						codon_start       3
+374310    374375    CDS
+                        product           TRAJ31
+						codon_start       3
+374571    374633    CDS
+                        product           TRAJ32	
+						codon_start       3
+375627    375686    CDS
+                        product           TRAJ33
+						codon_start       3
+375964    376023    CDS
+                        product           TRAJ34	
+						codon_start       3
+376226    376288    CDS
+                        product           TRAJ35	
+						codon_start       3
+377013    377075    CDS
+                        product           TRAJ36	
+						codon_start       3
+377291    377353    CDS
+                        product           TRAJ37	
+						codon_start       3
+377639    377695    CDS
+                        product           TRAJ38	
+						codon_start       3
+378170    378235    CDS
+                        product           TRAJ39	
+						codon_start       3
+378423    378488    CDS
+                        product           TRAJ40	
+						codon_start       3
+378751    378813    CDS
+                        product           TRAJ41
+						codon_start       3
+379027    379086    CDS
+                        product           TRAJ42
+						codon_start       3
+379283    379342    CDS
+                        product           TRAJ43	
+						codon_start       3
+379432    379491    CDS
+                        product           TRAJ44
+						codon_start       3
+379760    379825    CDS
+                        product           TRAJ45
+						codon_start       3
+380047    380109    CDS
+                        product           TRAJ46
+						codon_start       3
+381022    381084    CDS
+                        product           TRAJ47
+						codon_start       3
+381374    381436    CDS
+                        product           TRAJ48
+						codon_start       3
+381707    381760    CDS
+                        product           TRAJ49
+						codon_start       3
+382282    382344    CDS
+                        product           TRAJ50
+						codon_start       3
+382498    382561    CDS
+                        product           TRAJ51
+						codon_start       1
+382874    382939    CDS
+                        product           TRAJ52
+						codon_start       3
+383195    383251    CDS
+                        product           TRAJ53
+						codon_start       3
+383700    383759    CDS
+                        product           TRAJ54
+						codon_start       3
+383947    384012    CDS
+                        product           TRAJ55
+						codon_start       3
+384488    384553    CDS
+                        product           TRAJ56
+						codon_start       3
+384805    384861    CDS
+                        product           TRAJ57
+						codon_start       3
+385249    385311    CDS
+                        product           TRAJ58
+						codon_start       3
+385617    385682    CDS
+                        product           TRAJ59
+						codon_start       3
+385967    386026    CDS
+                        product           TRAJ60
+						codon_start       3
+386474    386539    CDS
+                        product           TRAJ61
+						codon_start       3
+387120    387182    CDS
+                        product           TRAJ62
+						codon_start       3
+387740    387805    CDS
+                        product           TRAJ63
+						codon_start       3
+388236    388295    CDS
+                        product           TRAJ64
+						codon_start       3
+388842    388907    CDS
+                        product           TRAJ65
+						codon_start       3
+389338    389400    CDS
+                        product           TRAJ66
+						codon_start       3
+389911    389976    CDS
+                        product           TRAJ67
+						codon_start       3
+390609    390668    CDS
+                        product           TRAJ68
+						codon_start       3
+390825    390891    misc_feature
+                        product           TRAJ69P
+						pseudo
+391220    391282    CDS
+                        product           TRAJ70
+						codon_start       3
+391863    391916    CDS
+                        product           TRAJ71
+						codon_start       3
+392190    392252    CDS
+                        product           TRAJ72
+						codon_start       3
+392645    392707    CDS
+                        product           TRAJ73
+						codon_start       3
+392910    392975    CDS
+                        product           TRAJ74
+						codon_start       3
+393524    393583    CDS
+                        product           TRAJ75
+						codon_start       3
+393994    394056    CDS
+                        product           TRAJ76
+						codon_start       3
+394648    394701    CDS
+                        product           TRAJ77
+						codon_start       3
+395320    395382    CDS
+                        product           TRAJ78
+						codon_start       3
+395603    395662    CDS
+                        product           TRAJ79
+						codon_start       3
+395876    395935    CDS
+                        product           TRAJ80
+						codon_start       3
+396188    396247    CDS
+                        product           TRAJ81
+						codon_start       3
+396662    396721    CDS
+                        product           TRAJ82
+						codon_start       3
+397109    397168    CDS
+                        product           TRAJ83
+						codon_start       3
+397446    397508    CDS
+                        product           TRAJ84
+						codon_start       3
+397889    397946    CDS
+                        product           TRAJ85
+						codon_start       1
+398196    398255    CDS
+                        product           TRAJ86
+						codon_start       3
+398564    398623    CDS
+                        product           TRAJ87
+						codon_start       3
+398898    398954    CDS
+                        product           TRAJ88
+						codon_start       3
+399222    399284    CDS
+                        product           TRAJ89
+						codon_start       3
+400160    400222    CDS
+                        product           TRAJ90
+						codon_start       3
+400382    400444    CDS
+                        product           TRAJ91
+						codon_start       3
+400740    400796    CDS
+                        product           TRAJ92
+						codon_start       3
+401213    401272    CDS
+                        product           TRAJ93
+						codon_start       3
+401761    401820    CDS
+                        product           TRAJ94
+						codon_start       3
+402506    402565    CDS
+                        product           TRAJ95
+						codon_start       3
+403168    403227    CDS
+                        product           TRAJ96
+						codon_start       3
+403418    403477    CDS
+                        product           TRAJ97
+						codon_start       3
+403659    403724    CDS
+                        product           TRAJ98
+						codon_start       3
+404335    404394    CDS
+                        product           TRAJ99
+						codon_start       3
+404771    404836    CDS
+                        product           TRAJ100
+						codon_start       3
+405089    405151    CDS
+                        product           TRAJ101
+						codon_start       3
+405782    405838    CDS
+                        product           TRAJ102
+						codon_start       3
+406291    406356    CDS
+                        product           TRAJ103
+						codon_start       3
+407032    407091    CDS
+                        product           TRAJ104
+						codon_start       3
+407372    407428    CDS
+                        product           TRAJ105
+						codon_start       3
+407677    407733    CDS
+                        product           TRAJ106
+						codon_start       3
+408021    408086    CDS
+                        product           TRAJ107
+						codon_start       3
+408440    408499    CDS
+                        product           TRAJ108
+						codon_start       3
+408932    408980    misc_feature
+                        product           TRAJ109P
+						pseudo
+409262    409324    CDS
+                        product           TRAJ110
+						codon_start       3
+409635    409694    CDS
+                        product           TRAJ111
+						codon_start       3
+409904    409960    CDS
+                        product           TRAJ112
+						codon_start       3
+410640    410699    CDS
+                        product           TRAJ113
+						codon_start       3
+411139    411195    CDS
+                        product           TRAJ114
+						codon_start       3
+411850    411915    CDS
+                        product           TRAJ115
+						codon_start       3
+412184    412243    CDS
+                        product           TRAJ116
+						codon_start       3
+412680    412739    CDS
+                        product           TRAJ117
+						codon_start       3
+412997    413056    CDS
+                        product           TRAJ118
+						codon_start       3
+413411    413467    CDS
+                        product           TRAJ119
+						codon_start       3
+413824    413883    CDS
+                        product           TRAJ120
+						codon_start       3
+414053    414112    CDS
+                        product           TRAJ121
+						codon_start       3
+414495    414554    CDS
+                        product           TRAJ122
+						codon_start       3
+415452    415508    CDS
+                        product           TRAJ123
+						codon_start       3
+416207    416263    CDS
+                        product           TRAJ124
+						codon_start       3
+416639    416695    misc_feature
+                        product           TRAJ125P
+						pseudo
+418076    418270    exon
+                        number            1
+						product           TRAC Ig Domain
+418450    418497    exon
+                        number            2
+						product           TRAC CP1
+418613    418719    exon
+                        number            3
+						product           TRAC TM
+418076    418270    gene  
+418450    418497 
+418613    418719
+						gene           TRAC
+418076    418270    CDS  
+418450    418497 
+418613    418719
+						product           TRAC
+						codon_start       3
+446997    446958    CDS
+446789    446480
+                        product           TRAV1-79
+						codon_start       1
+462554    462515    CDS
+462368    462068
+                        product           TRAV1-78
+						codon_start       1
+464470    464431    misc_feature
+464319    464216
+                        product           TRA Remnant T
+468621    468582    CDS
+468422    468113
+                        product           TRAV1-77
+						codon_start       1
+486115    486076    CDS
+485914    485605
+                        product           TRAV1-76
+						codon_start       1
+493058    493019    CDS
+492856    492556
+                        product           TRAV1-75
+						codon_start       1
+504292    504253    CDS
+504093    503784
+                        product           TRAV1-74
+						codon_start       1
+517534    517495    CDS
+517383    517089
+                        product           TRAV1-73
+						codon_start       1
+519303    519264    CDS
+519104    518798
+                        product           TRAV1-72
+						codon_start       1
+526831    526792    CDS
+526629    526335
+                        product           TRAV1-71
+						codon_start       1
+538300    538261    CDS
+538101    537792
+                        product           TRAV1-70
+						codon_start       1
+545608    545569    CDS
+545406    545106
+                        product           TRAV1-69
+						codon_start       1
+554373    554334    CDS
+554174    553865
+                        product           TRAV1-68
+						codon_start       1
+559829    559790    CDS
+559627    559327
+                        product           TRAV1-67
+						codon_start       1
+562020    561981    CDS
+561869    561575
+                        product           TRAV1-66
+						codon_start       1
+566135    566096    CDS
+565936    565633
+                        product           TRAV1-65
+						codon_start       1
+573812    573773    CDS
+573610    573310
+                        product           TRAV1-64
+						codon_start       1
+579692    579653    CDS
+579541    579247
+                        product           TRAV1-63
+						codon_start       1
+583835    583796    CDS
+583636    583327
+                        product           TRAV1-62
+						codon_start       1
+589811    589772    CDS
+589609    589306
+                        product           TRAV1-61
+						codon_start       1
+605911    605872    CDS
+605712    605409
+                        product           TRAV1-60
+						codon_start       1
+610370    610331    CDS
+610168    609865
+                        product           TRAV1-59
+						codon_start       1
+620114    620075    CDS
+619915    619609
+                        product           TRAV1-58
+						codon_start       1
+630816    630777    CDS
+630612    630312
+                        product           TRAV1-57
+						codon_start       1
+644515    644476    CDS
+644364    644070
+                        product           TRAV1-56
+						codon_start       1
+646287    646248    CDS
+646088    645782
+                        product           TRAV1-55
+						codon_start       1
+653783    653744    CDS
+653588    653285
+                        product           TRAV1-54
+						codon_start       1
+662571    662532    CDS
+662372    662063
+                        product           TRAV1-53
+						codon_start       1
+667937    667898    CDS
+667806    667515
+                        product           TRAV1-52
+						codon_start       1
+671810    671771    CDS
+671611    671302
+                        product           TRAV1-51
+						codon_start       1
+680871    680832    CDS
+680667    680370
+                        product           TRAV1-50
+						codon_start       1
+688989    688950    misc_feature
+688787    688494
+                        product           TRAV1-49P
+						pseudo
+701387    701345    CDS
+701223    700920
+                        product           TRAV3-7
+						codon_start       1
+708454    708412    CDS
+708238    707932
+                        product           TRAV6-3
+						codon_start       1
+710932    710890    CDS
+710839    710566
+                        product           TRAV5-3
+						codon_start       1
+719311    719272    CDS
+719160    718866
+                        product           TRAV1-48
+						codon_start       1
+728186    728120    CDS
+727972    727661
+                        product           TRAV1-28
+						codon_start       1
+731077    731038    CDS
+730896    730596
+                        product           TRAV4-13
+						codon_start       1
+737631    737592    CDS
+737419    737113
+                        product           TRAV6-2
+						codon_start       1
+740188    740146    CDS
+740095    739822
+                        product           TRAV5-2
+						codon_start       1
+749958    749892    CDS
+749743    749432
+                        product           TRDV1-27
+						codon_start       1
+752795    752756    CDS
+752614    752320
+                        product           TRAV4-12
+						codon_start       1
+760552    760510    CDS
+760336    760030
+                        product           TRAV6-1
+						codon_start       1
+763086    763044    CDS
+762990    762717
+                        product           TRAV5-1
+						codon_start       1
+774661    774622    CDS
+774461    774158
+                        product           TRAV1-47
+						codon_start       1
+783781    783742    CDS
+783590    783296
+                        product           TRAV1-46
+						codon_start       1
+784528    784470    misc_feature
+                        product           TRA Remnant S
+798775    798736    CDS
+798588    798288
+                        product           TRAV1-45
+						codon_start       1
+814189    813923    misc_feature
+                        product           TRA Remnant R
+822722    822656    CDS
+822516    822208
+                        product           TRDV1-26
+						codon_start       1
+855828    855762    CDS
+855612    855301
+                        product           TRDV1-25
+						codon_start       1
+863563    863497    CDS
+863341    863057
+                        product           TRDV2-4
+						codon_start       1
+867195    867156    CDS
+867008    866711
+                        product           TRAV1-44
+						codon_start       1
+871900    871861    CDS
+871711    871411
+                        product           TRAV1-43
+						codon_start       1
+879056    879017    CDS
+878898    878601
+                        product           TRAV4-11
+						codon_start       1
+883508    883442    CDS
+883297    882989
+                        product           TRDV1-24
+						codon_start       1
+886433    886394    CDS
+886247    885947
+                        product           TRAV1-42
+						codon_start       1
+892221    892155    CDS
+892005    891694
+                        product           TRDV1-23
+						codon_start       1
+907173    907128    misc_feature
+907016    906819
+                        product           TRA Remnant Q
+907916    907856    misc_feature
+907718    907501
+                        product           TRD Remnant O
+916958    916892    CDS
+916746    916441
+                        product           TRDV1-22
+						codon_start       1
+923695    923629    CDS
+923484    923176
+                        product           TRDV1-21
+						codon_start       1
+933993    933954    CDS
+933807    933507
+                        product           TRAV1-41
+						codon_start       1
+938655    938589    CDS
+938432    938148
+                        product           TRDV2-3
+						codon_start       1
+942223    942184    CDS
+942033    941736
+                        product           TRAV1-40
+						codon_start       1
+946267    946228    CDS
+946079    945779
+                        product           TRAV1-39
+						codon_start       1
+952734    952695    CDS
+952567    952273
+                        product           TRAV4-10
+						codon_start       1
+955773    955482    misc_feature
+                        product           TRA Remnant P
+964248    964182    CDS
+964040    963735
+                        product           TRDV1-20
+						codon_start       1
+971488    971422    CDS
+971265    970969
+                        product           TRDV1-19
+						codon_start       1
+975587    975548    CDS
+975401    975101
+                        product           TRAV1-38
+						codon_start       1
+983165    983099    CDS
+982948    982637
+                        product           TRDV1-18
+						codon_start       1
+991161    991095    CDS
+990939    990655
+                        product           TRDV2-2
+						codon_start       1
+994768    994729    CDS
+994581    994284
+                        product           TRAV1-37
+						codon_start       1
+998949    998910    CDS
+998762    998462
+                        product           TRAV1-36
+						codon_start       1
+1007749    1007710    CDS
+1007591    1007294
+                        product           TRAV4-9
+						codon_start       1
+1010930    1010839    misc_feature
+                        product           TRA Remnant O
+1020261    1019957    misc_feature
+                        product           TRD Remnant N
+1024960    1024894    CDS
+1024737    1024441
+                        product           TRDV1-17
+						codon_start       1
+1033229    1033190    misc_feature
+1033043    1032744
+                        product           TRAV1-35P
+						pseudo
+1039247    1039181    CDS
+1039037    1038726
+                        product           TRDV1-16
+						codon_start       1
+1046781    1046715    CDS
+1046560    1046276
+                        product           TRDV2-1
+						codon_start       1
+1050418    1050379    CDS
+1050231    1049934
+                        product           TRAV1-34
+						codon_start       1
+1054137    1054098    CDS
+1053949    1053649
+                        product           TRAV1-33
+						codon_start       1
+1061051    1061012    CDS
+1060891    1060594
+                        product           TRAV4-8
+						codon_start       1
+1062859    1062768    misc_feature
+                        product           TRA Remnant N
+1073342    1073276    CDS
+1073136    1072831
+                        product           TRDV1-15
+						codon_start       1
+1076290    1076009    misc_feature
+                        product           TRD Remnant M
+1077900    1077861    CDS
+1077710    1077407
+                        product           TRAV1-32
+						codon_start       1
+1082513    1082474    CDS
+1082312    1082009
+                        product           TRAV1-31
+						codon_start       1
+1087454    1087423    misc_feature
+                        product           TRD Remnant L
+1100367    1100215    misc_feature
+                        product           TRA Remnant M
+1102913    1102874    CDS
+1102726    1102426
+                        product           TRAV1-30
+						codon_start       1
+1114597    1114558    CDS
+1114400    1114097
+                        product           TRAV1-29
+						codon_start       1
+1132145    1132106    CDS
+1131945    1131642
+                        product           TRAV1-28
+						codon_start       1
+1137486    1137449    misc_feature
+1137301    1137144
+                        product           TRA Remnant L
+1142060    1142021    CDS
+1141872    1141572
+                        product           TRAV1-27
+						codon_start       1
+1149973    1149934    CDS
+1149815    1149518
+                        product           TRAV4-7
+						codon_start       1
+1154423    1154357    CDS
+1154212    1153904
+                        product           TRDV1-14
+						codon_start       1
+1157216    1157177    CDS
+1157030    1156730
+                        product           TRAV1-26
+						codon_start       1
+1158852    1158813    CDS
+1158662    1158359
+                        product           TRAV1-25
+						codon_start       1
+1163438    1163399    CDS
+1163237    1162934
+                        product           TRAV1-24
+						codon_start       1
+1168368    1168335    misc_feature
+                        product           TRD Remnant K
+1184993    1184954    CDS
+1184806    1184506
+                        product           TRAV1-23
+						codon_start       1
+1195911    1195872    CDS
+1195714    1195411
+                        product           TRAV1-22
+						codon_start       1
+1209809    1209770    CDS
+1209669    1209366
+                        product           TRAV4-6
+						codon_start       1
+1219763    1219724    CDS
+1219564    1219261
+                        product           TRAV1-21
+						codon_start       1
+1230437    1230398    CDS
+1230232    1229941
+                        product           TRAV1-20
+						codon_start       1
+1235498    1235435    CDS
+1235291    1234980
+                        product           TRDV1-13
+						codon_start       1
+1239764    1239725    CDS
+1239624    1239321
+                        product           TRAV4-5
+						codon_start       1
+1247896    1247830    CDS
+1247690    1247380
+                        product           TRDV1-12
+						codon_start       1
+1249978    1249724    misc_feature
+                        product           TRD Remnant J
+1255830    1255791    CDS
+1255659    1255365
+                        product           TRAV4-4
+						codon_start       1
+1270241    1270199    CDS
+1270043    1269743
+                        product           TRAV1-19
+						codon_start       1
+1279890    1279851    CDS
+1279687    1279384
+                        product           TRAV1-18
+						codon_start       1
+1293567    1293378    misc_feature
+                        product           TRD Remnant I
+1296981    1296939    CDS
+1296836    1296533
+                        product           TRAV3-6
+						codon_start       1
+1305757    1305700    misc_feature
+1305556    1305245
+                        product           TRDV1-11P
+						pseudo
+1310470    1310431    misc_feature
+1310830    1310727
+                        product           TRA Remnant K
+1319853    1319814    CDS
+1319650    1319347
+                        product           TRAV1-17
+						codon_start       1
+1329407    1329368    CDS
+1329222    1328916
+                        product           TRAV1-16
+						codon_start       1
+1353319    1353253    CDS
+1353107    1352802
+                        product           TRDV1-10
+						codon_start       1
+1356247    1356208    CDS
+1356049    1355746
+                        product           TRAV1-15
+						codon_start       1
+1367045    1366979    misc_feature
+1366851    1366554
+                        product           TRD Remnant H
+1369079    1369040    CDS
+1368889    1368595
+                        product           TRAV1-14
+						codon_start       1
+1377900    1377858    CDS
+1377589    1377286
+                        product           TRAV2-3
+						codon_start       1
+1386136    1386097    CDS
+1385931    1385616
+                        product           TRAV1-13
+						codon_start       1
+1398017    1397978    CDS
+1397813    1397513
+                        product           TRAV1-12
+						codon_start       1
+1406151    1406109    CDS
+1406006    1405703
+                        product           TRAV3-5
+						codon_start       1
+1408777    1408716    misc_feature
+1408577    1408275
+                        product           TRDV1-9P
+						pseudo
+1411333    1411294    misc_feature
+1411146    1410862
+                        product           TRAV1-11P
+						pseudo
+1413334    1413263    misc_feature
+1413118    1412863
+                        product           TRD Remnant G
+1416209    1416114    misc_feature
+                        product           TRA Remnant J
+1417258    1417139    misc_feature
+                        product           TRD Remnant F
+1418963    1418662    misc_feature
+                        product           TRD Remnant E
+1422398    1422107    misc_feature
+                        product           TRA Remnant I
+1433333    1433294    CDS
+1433137    1432834
+                        product           TRAV1-10
+						codon_start       1
+1451457    1451306    misc_feature
+                        product           TRD Remnant D
+1454807    1454765    CDS
+1454656    1454353
+                        product           TRAV3-4
+1458855    1458813    CDS
+1458686    1458383
+                        product           TRAV3-3
+1470371    1470305    CDS
+1470160    1469852
+                        product           TRDV1-8
+1472839    1472773    misc_feature
+1472642    1472575
+                        product           TRD Remnant C
+1474507    1474330    misc_feature
+                        product           TRA Remnant H
+1474865    1474762    misc_feature
+                        product           TRA Remnant G
+1480143    1480104    CDS
+1479976    1479676
+                        product           TRAV1-9
+						codon_start       1
+1494433    1494391    CDS
+1494123    1493823
+                        product           TRAV2-2
+						codon_start       1
+1496709    1496643    CDS
+1496498    1496187
+                        product           TRDV1-7
+						codon_start       1
+1503131    1503092    CDS
+1502921    1502618
+                        product           TRAV1-8
+						codon_start       1
+1503755    1503663    misc_feature
+                        product           TRD Remnant B
+1511100    1511061    CDS
+1510959    1510656
+                        product           TRAV4-3
+						codon_start       1
+1515101    1515062    CDS
+1514941    1514641
+                        product           TRAV1-7
+						codon_start       1
+1516566    1516500    CDS
+1516360    1516052
+                        product           TRDV1-6
+						codon_start       1
+1518923    1518860    misc_feature
+1518714    1518464
+                        product           TRDV1-5P
+						pseudo
+1523784    1523745    CDS
+1523618    1523321
+                        product           TRAV4-2
+						codon_start       1
+1526479    1526269    misc_feature
+                        product           TRA Remnant F
+1543276    1543237    CDS
+1543115    1542821
+                        product           TRAV4-1
+						codon_start       1
+1550692    1550650    CDS
+1550523    1550220
+                        product           TRAV3-2
+						codon_start       1
+1551825    1551757    misc_feature
+                        product           TRD Remnant A
+1553144    1553060    misc_feature
+                        product           TRA Remnant E
+1562255    1562189    CDS
+1562051    1561740
+                        product           TRDV1-4
+						codon_start       1
+1565470    1565260    misc_feature
+                        product           TRA Remnant D
+1571958    1571892    misc_feature
+1571768    1571511
+                        product           TRAV1-3P
+						pseudo
+1573940    1573901    CDS
+1573750    1573453
+                        product           TRAV1-6
+						codon_start       1
+1577835    1577796    misc_feature
+1577640    1577341
+                        product           TRAV1-5P
+						pseudo
+1585224    1585182    CDS
+1585080    1584777
+                        product           TRAV3-1
+						codon_start       1
+1591171    1591127    misc_feature
+1590970    1590697
+                        product           TRDV1-2P
+						pseudo
+1593182    1593143    CDS
+1592992    1592692
+                        product           TRAV1-4
+						codon_start       1
+1599993    1599954    CDS
+1599803    1599506
+                        product           TRAV1-3
+						codon_start       1
+1605628    1605381    misc_feature
+                        product           TRA Remnant C
+1606608    1606564    misc_feature
+1606418    1606124
+                        product           TRD1-1P
+1608279    1608108    misc_feature
+                        product           TRA Remnant B
+1608818    1608779    misc_feature
+1608659    1608500
+                        product           TRA Remnant A
+1612672    1612633    CDS
+1612472    1612172
+                        product           TRAV1-2
+						codon_start       1
+1625550    1625511    misc_feature
+1625434    1625131
+                        product           TRA2-1P
+1627448    1627409    misc_feature
+1627247    1626970
+                        product           TRA1-1P

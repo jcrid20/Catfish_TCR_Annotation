@@ -1,0 +1,164 @@
+>Feature TRG contig
+1    1662071    REFERENCE
+1411083    1411131    CDS
+1411224    1411536
+                        product           TRGV1
+						codon_start       1
+1416270    1416314    CDS
+                        product           TRGJ1
+						codon_start       3
+1418537    1418848    exon
+				        number            1
+						product           TRGC1 Ig Domain
+1418944    1419057    exon
+                        number            2
+						product           TRGC1 CP
+1419373    1419524    exon
+                        number            3
+						product           TRGC1 TM
+1418537    1418848    gene 
+1418944    1419057 
+1419373    1419524
+						gene           TRGC1
+1418537    1418848    CDS  
+1418944    1419057 
+1419373    1419524
+						product           TRGC1
+						codon_start       3
+1423528    1423570    CDS
+1423676    1423989
+                        product           TRGV2-1
+						codon_start       1
+1426131    1426173    CDS
+1426269    1426582
+                        product           TRGV2-2
+						codon_start       1
+1428957    1428999    CDS
+1429106    1429419
+                        product           TRGV2-3
+						codon_start       1
+1433793    1433835    CDS
+1433931    1434250
+                        product           TRGV2-4
+						codon_start       1
+1436662    1436704    CDS
+1436811    1437124
+                        product           TRGV2-5	
+						codon_start       1						
+1440628    1440670    CDS
+1440766    1441078
+                        product           TRGV2-6	
+						codon_start       1
+1441541    1441583    misc_feature
+1441926    1442111
+                        product           TRGV2-7P	
+						pseudo
+1443750    1443792    CDS
+1443937    1444249
+                        product           TRGV2-8
+						codon_start       1
+1512102    1512144    misc_feature
+1512220    1512532
+                        product           TRGV2-9P	
+						pseudo
+1512710    1512752    CDS
+1512862    1513171
+                        product           TRGV2-10
+						codon_start       1
+1514929    1514972    CDS
+                        product           TRGJ2	
+						codon_start       2
+1517485    1517793    exon
+				        number            1
+						product           TRGC2 Ig Domain
+1518202    1518273    exon
+                        number            2
+						product           TRGC2 CP
+1520169    1520320    exon
+                        number            3
+						product           TRGC2 TM
+1517485    1517793    gene
+1518202    1518273 
+1520169    1520320
+						gene           TRGC2
+1517485    1517793    CDS
+1518202    1518273 
+1520169    1520320
+						product           TRGC2
+						codon_start       3
+1523398    1523449    CDS
+1523586    1523883
+                        product           TRGV3-1	
+						codon_start       1
+1526734    1526784    CDS
+                        product           TRGJ3-1
+						codon_start       3
+1526996    1527055    CDS
+                        product           TRGJ3-2
+						codon_start       3
+1527616    1527668    CDS
+                        product           TRGJ3-3
+						codon_start       2
+1528062    1528126    misc_feature
+                        product           TRGJ3-4P
+						pseudo
+1528365    1528427    CDS
+                        product           TRGJ3-5	
+						codon_start       3
+1528850    1528902    CDS
+                        product           TRGJ3-6
+						codon_start       2
+1530972    1531295    exon
+				        number            1
+						product           TRGC3 Ig Domain
+1531560    1531658    exon
+                        number            2
+						product           TRGC3 CP
+1531858    1531985    exon
+                        number            3
+						product           TRGC3 TM
+1530972    1531295    gene
+1531560    1531658
+1531858    1531985
+						gene           TRGC3
+1530972    1531295    CDS
+1531560    1531658
+1531858    1531985
+						product           TRGC3
+						codon_start       3
+1535677    1535719    CDS
+1535924    1536238
+                        product           TRGV3-2
+						codon_start       1
+1548091    1548139    CDS
+1548296    1548597
+                        product           TRGV3-3
+						codon_start       1
+1553455    1553503    CDS
+1553659    1553957
+                        product           TRGV3-4
+						codon_start       1
+1559073    1559126    misc_feature
+                        product           TRGJ4-1P
+						pseudo
+1559339    1559404    CDS
+                        product           TRGJ4-2
+						codon_start       3
+1561137    1561448    exon
+				        number            1
+						product           TRGC4 Ig Domain
+1561496    1561566    exon
+                        number            2
+						product           TRGC4 CP
+1561591    1561814    exon
+                        number            3
+						product           TRGC4 TM
+1561137    1561448    gene 
+1561496    1561567           
+1561591	   1561814				
+                        gene           TRGC4
+1561137    1561448    CDS 
+1561496    1561567           
+1561591	   1561814				
+                        product           TRGC4
+						codon_start       3

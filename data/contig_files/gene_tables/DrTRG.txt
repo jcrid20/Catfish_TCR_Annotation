@@ -1,0 +1,69 @@
+>Feature LR812064.1 Danio rerio genome assembly, chromosome: 2
+1    59970185    REFERENCE
+31527742    31527700  CDS
+31527610    31527309
+						product           TRGV1-1	
+						codon_start       1
+31524353    31524311  CDS
+31524237    31523936
+						product           TRGV1-2
+						codon_start       1
+31518966    31518924  CDS
+31518841    31518523
+						product           TRGV1-3	
+						codon_start       1
+31516351    31516309  CDS
+31516119    31515806
+						product           TRGV2
+						codon_start       1
+31511806    31511764  CDS
+31511652    31511357
+						product           TRGV3
+						codon_start       1
+31507890    31507839  CDS
+31507754    31507457
+						product           TRGV4-1	
+						codon_start       1
+31505527    31505485  CDS
+31505360    31505064
+						product           TRGV4-2	
+						codon_start       1				
+31503839    31503795  CDS
+						product           TRGJ1	
+						codon_start       3
+31502789    31502738  CDS
+						product           TRGJ2
+						codon_start       1
+31502449    31502404  CDS
+						product           TRGJ3
+						codon_start       1
+31502103    31502055  CDS
+						product           TRGJ4
+						codon_start       1
+31500890    31500842  CDS
+						product           TRGJ5	
+						codon_start       1
+31500246    31500192  CDS
+						product           TRGJ6	
+						codon_start       1
+31499671    31499626  CDS
+						product           TRGJ7
+						codon_start       1
+31497814    31497509  exon
+						number            1	
+						product			  TRGC Ig Domain
+31495266    31495180  exon
+						number            2	
+						product       	  TRGC CP
+31494864    31494725  exon
+						number            3	
+						product       	  TRGC TM CYT
+31497814    31497509  gene  
+31495266    31495180 
+31494864    31494725
+						gene           TRGC	
+31497814    31497509  CDS  
+31495266    31495180 
+31494864    31494725
+						product           TRGC	
+						codon_start       3
